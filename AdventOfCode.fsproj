@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="02-rock-paper-scissors-pt2.fsx" />
+    <Compile Include="02-rock-paper-scissors.fsx" />
+    <Compile Include="01-calories-pt2.fsx" />
+    <Compile Include="01-calories.fsx" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+</Project>

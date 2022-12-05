@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yxD1/7W8bSW/+AkrBHq3mt13R9zexGW9FrJ8B+cY89vJhDWgLjgFVd5LaugbArRGXqfTYg6QiK19tOiHTYVhxg==",
+  "success": true,
+  "projectFilePath": "/Users/gethynjones/Code/_f#/AdventOfCode/AdventOfCode.fsproj",
+  "expectedPackageFiles": [
+    "/Users/gethynjones/.nuget/packages/fsharp.core/6.0.5/fsharp.core.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
