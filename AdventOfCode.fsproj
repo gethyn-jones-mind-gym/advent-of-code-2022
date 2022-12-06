@@ -4,6 +4,8 @@
     <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="04-camp-cleanup-pt2.fsx" />
+    <Compile Include="04-camp-cleanup.fsx" />
     <Compile Include="03-rucksacks-pt2.fsx" />
     <Compile Include="03-rucksacks.fsx" />
     <Compile Include="02-rock-paper-scissors-pt2.fsx" />
