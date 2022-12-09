@@ -14,5 +14,6 @@
   </ItemGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">/Users/gethynjones/.nuget/packages/fsharp.core/6.0.5</PkgFSharp_Core>
+    <PkgFsToolkit_ErrorHandling Condition=" '$(PkgFsToolkit_ErrorHandling)' == '' ">/Users/gethynjones/.nuget/packages/fstoolkit.errorhandling/4.0.0</PkgFsToolkit_ErrorHandling>
   </PropertyGroup>
 </Project>

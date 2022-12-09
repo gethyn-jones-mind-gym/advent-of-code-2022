@@ -4,14 +4,18 @@
     <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="04-camp-cleanup-pt2.fsx" />
-    <Compile Include="04-camp-cleanup.fsx" />
-    <Compile Include="03-rucksacks-pt2.fsx" />
-    <Compile Include="03-rucksacks.fsx" />
-    <Compile Include="02-rock-paper-scissors-pt2.fsx" />
-    <Compile Include="02-rock-paper-scissors.fsx" />
-    <Compile Include="01-calories-pt2.fsx" />
-    <Compile Include="01-calories.fsx" />
-    <Compile Include="Program.fs" />
+    <Compile Include="05-crates.fsx"/>
+    <Compile Include="04-camp-cleanup-pt2.fsx"/>
+    <Compile Include="04-camp-cleanup.fsx"/>
+    <Compile Include="03-rucksacks-pt2.fsx"/>
+    <Compile Include="03-rucksacks.fsx"/>
+    <Compile Include="02-rock-paper-scissors-pt2.fsx"/>
+    <Compile Include="02-rock-paper-scissors.fsx"/>
+    <Compile Include="01-calories-pt2.fsx"/>
+    <Compile Include="01-calories.fsx"/>
+    <Compile Include="Program.fs"/>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="FsToolkit.ErrorHandling" Version="4.0.0"/>
   </ItemGroup>
 </Project>
