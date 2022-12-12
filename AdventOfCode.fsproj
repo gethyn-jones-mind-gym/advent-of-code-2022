@@ -4,6 +4,8 @@
     <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="08-tree-house.fsx" />
+    <Compile Include="tree.fsx" />
     <Compile Include="06-communication-system.fsx" />
     <Compile Include="05-crates.fsx" />
     <Compile Include="04-camp-cleanup-pt2.fsx" />
